@@ -14,7 +14,7 @@
 
 <br>
 
-## How to run it
+## Como executar
 
 Clone ou [download](https://github.com/mercadopago/card-payment-sample/archive/master.zip) neste projeto, vá para a implementação de servidor de sua escolha e siga as instruções do README.
 
