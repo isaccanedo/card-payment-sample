@@ -1,21 +1,21 @@
 # Processamento de pagamento com cartão com API Checkout
 
-### Este é um exemplo simples de como você pode aceitar pagamentos com cartão de crédito integrando a API [Checkout API](https://developers.mercadopago.com/en/guides/payments/api/introduction)
+### Este é um exemplo simples de como você pode aceitar pagamentos com cartão de crédito integrando a API do MercadoPago [Checkout API](https://developers.mercadopago.com/en/guides/payments/api/introduction)
 
-### In this repository you will find two main folders:
+### Neste repositório você encontrará duas pastas principais:
 
 - `client`: 
   
-    Basic implementation of a checkout and its payment form, complying with the necessary security requirements to collect sensitive user information.
+    Implementação básica de um checkout e sua forma de pagamento, cumprindo os requisitos de segurança necessários para coletar informações sensíveis do usuário.
 
 - `server`: 
 
-    Basic server-side implementation, serving client-side static resources and allowing to post collected information directly to our API and process a payment request. 
+    Implementação básica do lado do servidor, servindo a recursos estáticos do lado do cliente e permitindo postar as informações coletadas diretamente em nossa API e processar uma solicitação de pagamento. 
 
 <br>
 
 ## How to run it
 
-Clone or [download](https://github.com/mercadopago/card-payment-sample/archive/master.zip) this project, move to the server implementation of your choice and follow its README instructions.
+Clone ou [download](https://github.com/mercadopago/card-payment-sample/archive/master.zip) neste projeto, vá para a implementação de servidor de sua escolha e siga as instruções do README.
 
-If you are programming in a different language, we offer a client-side sample which will allow you to write your own server-side implementation using our [API Reference](https://developers.mercadopago.com/en/reference/payments/_payments/post/) as a guideline.
+Se você estiver programando em uma linguagem diferente, oferecemos um exemplo do lado do cliente que permitirá que você escreva sua própria implementação do lado do servidor usando nossa [API Reference](https://developers.mercadopago.com/en/reference/payments/_payments/post/) ou nosso guia.
